@@ -1,1 +1,1 @@
-# YOLOv7_Segmentation_With_DeepSORT_Tracking
+# YOLOv7 Segmentation With DeepSORT Tracking
